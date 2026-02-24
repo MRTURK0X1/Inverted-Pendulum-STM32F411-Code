@@ -1,0 +1,5 @@
+# cube ide standart .gitignore
+.settings/
+Debug/
+*.launch
+
